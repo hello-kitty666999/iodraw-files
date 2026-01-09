@@ -58,7 +58,7 @@
         <mxCell id="5r886ELPMYKT60dtld2s-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="510" width="673" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5r886ELPMYKT60dtld2s-14" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="5r886ELPMYKT60dtld2s-14" value="逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="100" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
