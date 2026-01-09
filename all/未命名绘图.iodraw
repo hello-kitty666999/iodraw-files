@@ -79,6 +79,30 @@
         <mxCell id="5r886ELPMYKT60dtld2s-20" value="中间件系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="552" width="210" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="550" width="673" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-35" value="逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="558" width="210" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="558" width="210" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-39" value="核心服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="564" width="210" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-40" value="策略模式实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="429" y="563" width="200" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-41" value="中间件系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="562" width="210" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
