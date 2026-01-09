@@ -4,6 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5r886ELPMYKT60dtld2s-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I48GK5_RZc-cWRTpm0z4-1" target="5r886ELPMYKT60dtld2s-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5r886ELPMYKT60dtld2s-42">
+          <mxGeometry x="-0.2713" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I48GK5_RZc-cWRTpm0z4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
           <mxGeometry x="182.5" y="410" width="673" height="80" as="geometry" />
         </mxCell>
@@ -86,7 +94,7 @@
           <mxGeometry x="100" y="630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-36" value="基础依赖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="640" width="210" height="30" as="geometry" />
+          <mxGeometry x="190" y="640" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-37" value="工具模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="639" width="330" height="32" as="geometry" />
