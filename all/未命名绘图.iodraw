@@ -74,7 +74,7 @@
           <mxGeometry x="190" y="552" width="210" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-19" value="策略模式实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="489" y="548" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="548" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-20" value="PH Market" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="715" y="548" width="60" height="30" as="geometry" />
