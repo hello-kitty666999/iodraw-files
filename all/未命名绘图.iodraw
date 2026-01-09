@@ -14,16 +14,10 @@
           <mxGeometry x="190" y="418" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="I48GK5_RZc-cWRTpm0z4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="418" width="200" height="70" as="geometry" />
+          <mxGeometry x="418.5" y="418" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="I48GK5_RZc-cWRTpm0z4-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="418" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="I48GK5_RZc-cWRTpm0z4-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="707" y="418" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="I48GK5_RZc-cWRTpm0z4-37" value="Me Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="707" y="420.5" width="123" height="67.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
