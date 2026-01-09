@@ -38,13 +38,22 @@
           <mxGeometry x="330" y="448" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-7" value="页面配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="458" width="55" height="22" as="geometry" />
+          <mxGeometry x="426.5" y="448" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-8" value="组件配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="458" width="55" height="22" as="geometry" />
+          <mxGeometry x="491.5" y="448" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-9" value="市场配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="458" width="55" height="22" as="geometry" />
+          <mxGeometry x="556.5" y="448" width="55" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-10" value="页面配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="468" width="55" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-11" value="组件配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="468" width="55" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-12" value="市场配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="468" width="55" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
