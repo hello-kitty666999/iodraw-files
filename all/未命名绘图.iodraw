@@ -79,15 +79,6 @@
         <mxCell id="5r886ELPMYKT60dtld2s-20" value="中间件系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="552" width="210" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="5r886ELPMYKT60dtld2s-24" value="页面配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="426.5" y="578" width="55" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="5r886ELPMYKT60dtld2s-25" value="组件配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491.5" y="578" width="55" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="5r886ELPMYKT60dtld2s-26" value="市场配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="556.5" y="578" width="55" height="22" as="geometry" />
-        </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-27" value="页面配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="652.5" y="578" width="55" height="22" as="geometry" />
         </mxCell>
