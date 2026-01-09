@@ -19,7 +19,7 @@
         <mxCell id="I48GK5_RZc-cWRTpm0z4-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="418" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5r886ELPMYKT60dtld2s-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5r886ELPMYKT60dtld2s-1" value="SG Market" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="428" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
