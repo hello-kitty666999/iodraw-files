@@ -82,6 +82,9 @@
         <mxCell id="5r886ELPMYKT60dtld2s-31" value="&lt;p&gt;Bootstrap Service (启动服务)&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SSR Render Service (渲染服务)&lt;br&gt;&lt;/span&gt;Page Service (页面服务)&lt;br&gt;......&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="574" width="210" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="5r886ELPMYKT60dtld2s-32" value="&lt;p&gt;Bootstrap Service (启动服务)&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SSR Render Service (渲染服务)&lt;br&gt;&lt;/span&gt;Page Service (页面服务)&lt;br&gt;......&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="584" width="210" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
