@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="klY2bbSRb0Zm8d80onNF">
-    <mxGraphModel dx="1375" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1136" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-20" value="中间件系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="552" width="210" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="5r886ELPMYKT60dtld2s-31" value="&lt;p&gt;Bootstrap Service (启动服务)&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SSR Render Service (渲染服务)&lt;br&gt;&lt;/span&gt;Page Service (页面服务)&lt;br&gt;......&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="574" width="210" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-32" value="&lt;p&gt;Market Strategy Registry (市场策略注册表)&lt;br&gt;Strategy Factory (策略工厂)&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="570" width="205" height="70" as="geometry" />
