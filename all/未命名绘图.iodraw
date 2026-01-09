@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I48GK5_RZc-cWRTpm0z4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
-          <mxGeometry x="182.5" y="410" width="673" height="90" as="geometry" />
+          <mxGeometry x="182.5" y="410" width="673" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I48GK5_RZc-cWRTpm0z4-2" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="63.75" y="398" width="70" height="30" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="414" y="418" width="210" height="62" as="geometry" />
         </mxCell>
         <mxCell id="I48GK5_RZc-cWRTpm0z4-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="418" width="210" height="70" as="geometry" />
+          <mxGeometry x="640" y="418" width="210" height="62" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-1" value="SG Market" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="418" width="60" height="30" as="geometry" />
