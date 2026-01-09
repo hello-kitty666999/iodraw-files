@@ -70,7 +70,7 @@
         <mxCell id="5r886ELPMYKT60dtld2s-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="548" width="210" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="5r886ELPMYKT60dtld2s-18" value="核心服务接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5r886ELPMYKT60dtld2s-18" value="核心服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="552" width="210" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-19" value="策略模式实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
