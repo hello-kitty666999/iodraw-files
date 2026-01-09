@@ -7,7 +7,7 @@
         <mxCell id="5r886ELPMYKT60dtld2s-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I48GK5_RZc-cWRTpm0z4-1" target="5r886ELPMYKT60dtld2s-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5r886ELPMYKT60dtld2s-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5r886ELPMYKT60dtld2s-42">
+        <mxCell id="5r886ELPMYKT60dtld2s-43" value="依赖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5r886ELPMYKT60dtld2s-42">
           <mxGeometry x="-0.2713" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
