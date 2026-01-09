@@ -56,7 +56,7 @@
           <mxGeometry x="782.5" y="448" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="540" width="673" height="120" as="geometry" />
+          <mxGeometry x="182.5" y="540" width="673" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-14" value="逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="100" y="540" width="60" height="30" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="640" y="548" width="210" height="32" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-18" value="核心服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="552" width="210" height="22" as="geometry" />
+          <mxGeometry x="190" y="554" width="210" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-19" value="策略模式实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="419" y="553" width="200" height="22" as="geometry" />
