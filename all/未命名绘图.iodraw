@@ -77,7 +77,7 @@
           <mxGeometry x="419" y="552" width="200" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-20" value="中间件系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="548" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="548" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-21" value="页面配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="578" width="55" height="22" as="geometry" />
