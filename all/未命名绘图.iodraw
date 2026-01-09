@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I48GK5_RZc-cWRTpm0z4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
-          <mxGeometry x="182.5" y="398" width="673" height="110" as="geometry" />
+          <mxGeometry x="182.5" y="398" width="673" height="102" as="geometry" />
         </mxCell>
         <mxCell id="I48GK5_RZc-cWRTpm0z4-2" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="63.75" y="398" width="70" height="30" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="200" y="448" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="448" width="55" height="22" as="geometry" />
+          <mxGeometry x="265" y="448" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5r886ELPMYKT60dtld2s-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="448" width="55" height="22" as="geometry" />
