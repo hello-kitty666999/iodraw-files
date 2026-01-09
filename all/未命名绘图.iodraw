@@ -7,8 +7,8 @@
         <mxCell id="I48GK5_RZc-cWRTpm0z4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
           <mxGeometry x="184" y="398" width="669" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="I48GK5_RZc-cWRTpm0z4-2" value="Presentation Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="23.75" y="398" width="150" height="30" as="geometry" />
+        <mxCell id="I48GK5_RZc-cWRTpm0z4-2" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="63.75" y="398" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I48GK5_RZc-cWRTpm0z4-3" value="Login Page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="418" width="120" height="70" as="geometry" />
