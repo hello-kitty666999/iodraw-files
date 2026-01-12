@@ -133,7 +133,7 @@
           <mxGeometry x="470" y="820" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XSuhuJSReOIAxRZjM16j-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="709" width="200" height="271" as="geometry" />
+          <mxGeometry x="670" y="709" width="200" height="281" as="geometry" />
         </mxCell>
         <mxCell id="XSuhuJSReOIAxRZjM16j-65" value="cms-ssr-server-ph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="710" width="200" height="30" as="geometry" />
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="XSuhuJSReOIAxRZjM16j-71" value="Services（重复）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="820" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSuhuJSReOIAxRZjM16j-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="970" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
