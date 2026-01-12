@@ -78,38 +78,8 @@
         <mxCell id="XSuhuJSReOIAxRZjM16j-31" value="工具模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="460" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-35" value="依赖（npm install）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="559" y="778.047619047619" as="geometry" />
-        </mxCell>
         <mxCell id="XSuhuJSReOIAxRZjM16j-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="240" y="679" width="640" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="689" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-39" value="website-sg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="689" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-40" value="config.ts&lt;div&gt;market: &#39;sg&#39;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="709" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="689" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-42" value="website-ssr-server-id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="689" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-43" value="config.ts&lt;div&gt;market: &#39;id&#39;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="709" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="689" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-45" value="cms-ssr-server-ph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="689" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-46" value="config.ts&lt;div&gt;market: &#39;ph&#39;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="709" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
