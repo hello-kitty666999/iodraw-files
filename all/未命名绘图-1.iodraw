@@ -7,8 +7,8 @@
         <mxCell id="6NvnffyFxmGB6e9lhECr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
           <mxGeometry x="170" y="202" width="710" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="6NvnffyFxmGB6e9lhECr-2" value="Presentation Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="38" y="202" width="127" height="28" as="geometry" />
+        <mxCell id="6NvnffyFxmGB6e9lhECr-2" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="72" y="201" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6NvnffyFxmGB6e9lhECr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="222" width="120" height="170" as="geometry" />
@@ -90,12 +90,6 @@
         </mxCell>
         <mxCell id="6NvnffyFxmGB6e9lhECr-82" value="TabNavigator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="718.5" y="335.75" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6NvnffyFxmGB6e9lhECr-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="188.75" y="472" width="440" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="6NvnffyFxmGB6e9lhECr-105" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Business Logic Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="23" y="624" width="142" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
