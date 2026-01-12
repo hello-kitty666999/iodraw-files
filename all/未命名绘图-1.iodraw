@@ -58,17 +58,11 @@
         <mxCell id="XSuhuJSReOIAxRZjM16j-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="180" y="450" width="640" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-27" value="核心服务接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="460" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XSuhuJSReOIAxRZjM16j-28" value="基础层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="72" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-29" value="策略模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="460" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XSuhuJSReOIAxRZjM16j-30" value="中间件系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="460" width="140" height="60" as="geometry" />
+          <mxGeometry x="200" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSuhuJSReOIAxRZjM16j-31" value="市场特定代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="460" width="150" height="60" as="geometry" />
