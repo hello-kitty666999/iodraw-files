@@ -135,7 +135,7 @@
         <mxCell id="XSuhuJSReOIAxRZjM16j-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="709" width="200" height="271" as="geometry" />
         </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-65" value="website-sg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XSuhuJSReOIAxRZjM16j-65" value="cms-ssr-server-ph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="710" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XSuhuJSReOIAxRZjM16j-66" value="ServerConfig（重复）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
