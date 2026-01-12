@@ -10,21 +10,6 @@
         <mxCell id="6NvnffyFxmGB6e9lhECr-2" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="72" y="201" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NvnffyFxmGB6e9lhECr-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="222" width="120" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="6NvnffyFxmGB6e9lhECr-73" value="Me Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="224.5" width="123" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6NvnffyFxmGB6e9lhECr-75" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="201.5" y="257" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6NvnffyFxmGB6e9lhECr-76" value="UserInfo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="201.5" y="297" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6NvnffyFxmGB6e9lhECr-82" value="TabNavigator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="201.5" y="335.75" width="100" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
