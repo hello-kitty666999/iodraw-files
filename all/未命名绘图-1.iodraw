@@ -19,6 +19,15 @@
         <mxCell id="XSuhuJSReOIAxRZjM16j-4" value="config.ts&lt;div&gt;market:sg&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="240" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XSuhuJSReOIAxRZjM16j-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSuhuJSReOIAxRZjM16j-6" value="website-sg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XSuhuJSReOIAxRZjM16j-7" value="config.ts&lt;div&gt;market:sg&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
