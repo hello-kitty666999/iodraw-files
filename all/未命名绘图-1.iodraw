@@ -31,8 +31,8 @@
         <mxCell id="XSuhuJSReOIAxRZjM16j-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="220" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XSuhuJSReOIAxRZjM16j-9" value="website-sg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="220" width="60" height="20" as="geometry" />
+        <mxCell id="XSuhuJSReOIAxRZjM16j-9" value="cms-ssr-server-ph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XSuhuJSReOIAxRZjM16j-10" value="config.ts&lt;div&gt;market:sg&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="240" width="200" height="40" as="geometry" />
