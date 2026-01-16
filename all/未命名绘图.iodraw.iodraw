@@ -56,7 +56,7 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-23" value="2.启动开发服务器&lt;div&gt;node index.local.js&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="690" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-26" value="获取市场信息&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-26" value="获取市场信息&lt;div&gt;market=sg&lt;/div&gt;&lt;div&gt;env = dev1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="820" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
