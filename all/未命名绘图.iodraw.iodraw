@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="60" width="60" height="30" as="geometry" />
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-1" value="用户执行命令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
