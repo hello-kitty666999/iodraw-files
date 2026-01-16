@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="210" height="370" as="geometry" />
+          <mxGeometry x="50" y="380" width="210" height="380" as="geometry" />
         </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-1" value="用户执行命令：pnpm run build:sg为例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="90" width="230" height="30" as="geometry" />
@@ -48,8 +48,14 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-21" value="1.编译TS——&amp;gt;JS&lt;div&gt;tsc -p tsconfig....&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="590" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-23" target="FZA6Tx7DZ3-m0s-AVBFO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-23" value="2.启动开发服务器&lt;div&gt;node index.local.js&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="690" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-26" value="2.启动开发服务器&lt;div&gt;node index.local.js&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="830" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
