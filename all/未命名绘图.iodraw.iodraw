@@ -17,7 +17,7 @@
           <mxGeometry x="70" y="160" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-7" value="dev:sg主脚本&lt;div&gt;nodemon&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="95" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
