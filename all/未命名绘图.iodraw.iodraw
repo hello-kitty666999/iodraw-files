@@ -27,11 +27,20 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-7" value="dev:sg主命令&lt;div&gt;nodemon&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="290" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-10" target="FZA6Tx7DZ3-m0s-AVBFO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-10" value="nodemon启动&lt;div&gt;读取nodemon.json&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="390" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-14" target="FZA6Tx7DZ3-m0s-AVBFO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-14" value="执行两步组合命令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="490" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-21" value="执行两步组合命令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="630" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
