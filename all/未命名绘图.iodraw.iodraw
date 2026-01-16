@@ -98,8 +98,8 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-41" value="7.启动Express服务&lt;div&gt;appRun（）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="1520" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-43" value="7.启动Express服务&lt;div&gt;appRun（）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1660" width="170" height="60" as="geometry" />
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-43" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1620" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
