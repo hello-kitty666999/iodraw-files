@@ -74,8 +74,14 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-30" value="构建Next.js配置&lt;div&gt;buildNextConfig&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="1040" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-34" target="FZA6Tx7DZ3-m0s-AVBFO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-34" value="Next.js prepare()&lt;div&gt;（异步构建）&lt;/div&gt;&lt;div&gt;编译页面&lt;/div&gt;&lt;div&gt;设置热更新&lt;/div&gt;&lt;div&gt;创建webpack&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="1160" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-36" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1280" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
