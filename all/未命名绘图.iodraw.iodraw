@@ -68,14 +68,13 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-28" value="创建符号链接&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;checkAndFix&lt;/span&gt;&lt;/div&gt;&lt;div&gt;PagesSymlink()&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;（关键：在next.js实例创建之前）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="920" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-30" target="FZA6Tx7DZ3-m0s-AVBFO-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="1200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-30" value="构建Next.js配置&lt;div&gt;buildNextConfig&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="1040" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-32" value="构建Next.js配置&lt;div&gt;buildNextConfig&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1200" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
