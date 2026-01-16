@@ -33,26 +33,8 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-10" value="nodemon启动&lt;div&gt;读取nodemon.json&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="390" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-12" target="FZA6Tx7DZ3-m0s-AVBFO-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-12" value="监听配置：&lt;div&gt;监听目录：&lt;span style=&quot;background-color: initial;&quot;&gt;src/core/server&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文件类型：ts,json&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;延迟：1s&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="500" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-14" target="FZA6Tx7DZ3-m0s-AVBFO-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-14" value="执行两步组合命令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="610" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-16" target="FZA6Tx7DZ3-m0s-AVBFO-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-16" value="步骤一：编译tsc -p tsconfig.server.dev.json&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="720" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-18" value="步骤二：运行&lt;div&gt;node .dev-server-dist/core/server/index.local.js&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="860" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
