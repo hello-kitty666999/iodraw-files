@@ -92,8 +92,8 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-38" value="4.创建Next.js实例&lt;div&gt;next:({&lt;/div&gt;&lt;div&gt;dev:true,&lt;/div&gt;&lt;div&gt;dir:cwd()&lt;/div&gt;&lt;div&gt;})&lt;/div&gt;&lt;div&gt;此时pages已经存在符号链接&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="1150" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-41" value="6.初始化apollo&lt;div&gt;createApolloUtil&lt;/div&gt;&lt;div&gt;(本地开发会跳过)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1560" width="170" height="80" as="geometry" />
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-41" value="7.启动Express服务&lt;div&gt;appRun（）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1520" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
