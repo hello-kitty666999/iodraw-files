@@ -110,8 +110,14 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-45" value="7.2 加载市场配置&lt;div&gt;getMarketConfig()&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="1723.5" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-47" target="FZA6Tx7DZ3-m0s-AVBFO-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-47" value="7.3 注册中间件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1863.5" width="170" height="60" as="geometry" />
+          <mxGeometry x="70" y="1820" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-49" value="7.3 注册中间件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1960" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
