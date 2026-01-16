@@ -68,8 +68,14 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-28" value="创建符号链接&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;checkAndFix&lt;/span&gt;&lt;/div&gt;&lt;div&gt;PagesSymlink()&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;（关键：在next.js实例创建之前）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="920" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZA6Tx7DZ3-m0s-AVBFO-30" target="FZA6Tx7DZ3-m0s-AVBFO-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-30" value="构建Next.js配置&lt;div&gt;buildNextConfig&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1080" width="170" height="80" as="geometry" />
+          <mxGeometry x="70" y="1040" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-32" value="&lt;p&gt;&lt;code class=&quot;language-markdown&quot;&gt;Next.js prepare()&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(异步构建)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;code class=&quot;language-markdown&quot;&gt;编译页面 &lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;code class=&quot;language-markdown&quot;&gt;设置热更新&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre data-pm-slice=&quot;1 1 []&quot;&gt;  &lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1200" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
