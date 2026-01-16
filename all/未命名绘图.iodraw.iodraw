@@ -39,7 +39,7 @@
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-12" value="监听配置：&lt;div&gt;监听目录：&lt;span style=&quot;background-color: initial;&quot;&gt;src/core/server&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文件类型：ts,json&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;延迟：1s&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="500" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-14" value="监听配置：&lt;div&gt;监听目录：&lt;span style=&quot;background-color: initial;&quot;&gt;src/core/server&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文件类型：ts,json&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;延迟：1s&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-14" value="执行编译命令&lt;div&gt;tsc -p&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="640" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
