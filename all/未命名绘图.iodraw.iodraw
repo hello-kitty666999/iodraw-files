@@ -34,7 +34,7 @@
           <mxGeometry x="70" y="390" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZA6Tx7DZ3-m0s-AVBFO-12" value="nodemon启动&lt;div&gt;读取nodemon.json&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="530" width="170" height="60" as="geometry" />
+          <mxGeometry x="70" y="500" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
